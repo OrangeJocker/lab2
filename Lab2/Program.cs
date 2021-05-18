@@ -24,6 +24,10 @@ namespace Lab2
         {
             return a + b;
         }
+        private static float DoDiv(float a, float b)
+        {
+            return a / b;
+        }
         public static void Main(string[] args)
         {
         }
