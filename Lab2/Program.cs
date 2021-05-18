@@ -1,4 +1,8 @@
-﻿namespace Lab2
+﻿using System;
+using System.Globalization;
+
+
+namespace Lab2
 {
     internal class Program
     {
